@@ -9,10 +9,6 @@
 /* Begin PBXBuildFile section */
 		1F5D1B06263C361E008AD29C /* FinishExercise3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F5D1B05263C361E008AD29C /* FinishExercise3ViewController.swift */; };
 		1F6DBF972674C6E60072EBE9 /* FACSFaceAnalyzer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6DBF962674C6E60072EBE9 /* FACSFaceAnalyzer.swift */; };
-		1F8024B72663C42D00E27734 /* Exercise4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8024B62663C42D00E27734 /* Exercise4.swift */; };
-		1F8024B92663CE9C00E27734 /* MimicExercise4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8024B82663CE9C00E27734 /* MimicExercise4ViewController.swift */; };
-		1F8024BB2663D4DD00E27734 /* FinishExercise4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8024BA2663D4DC00E27734 /* FinishExercise4ViewController.swift */; };
-		1F8024C02663D59B00E27734 /* ShowDataExercise4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8024BF2663D59B00E27734 /* ShowDataExercise4ViewController.swift */; };
 		1FABF2B82645560300585CC6 /* ShowDataExercise3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FABF2B72645560300585CC6 /* ShowDataExercise3ViewController.swift */; };
 		1FD0E9FA263ACBB500E19CA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD0E9F9263ACBB500E19CA2 /* AppDelegate.swift */; };
 		1FD0E9FC263ACBB500E19CA2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD0E9FB263ACBB500E19CA2 /* SceneDelegate.swift */; };
@@ -56,10 +52,6 @@
 /* Begin PBXFileReference section */
 		1F5D1B05263C361E008AD29C /* FinishExercise3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishExercise3ViewController.swift; sourceTree = "<group>"; };
 		1F6DBF962674C6E60072EBE9 /* FACSFaceAnalyzer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FACSFaceAnalyzer.swift; sourceTree = "<group>"; };
-		1F8024B62663C42D00E27734 /* Exercise4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise4.swift; sourceTree = "<group>"; };
-		1F8024B82663CE9C00E27734 /* MimicExercise4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MimicExercise4ViewController.swift; sourceTree = "<group>"; };
-		1F8024BA2663D4DC00E27734 /* FinishExercise4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishExercise4ViewController.swift; sourceTree = "<group>"; };
-		1F8024BF2663D59B00E27734 /* ShowDataExercise4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowDataExercise4ViewController.swift; sourceTree = "<group>"; };
 		1FABF2B72645560300585CC6 /* ShowDataExercise3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowDataExercise3ViewController.swift; sourceTree = "<group>"; };
 		1FD0E9F6263ACBB500E19CA2 /* MimicTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MimicTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FD0E9F9263ACBB500E19CA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -135,16 +127,6 @@
 			path = Exercise1;
 			sourceTree = "<group>";
 		};
-		1F8024BE2663D52C00E27734 /* Exercise4 */ = {
-			isa = PBXGroup;
-			children = (
-				1F8024B82663CE9C00E27734 /* MimicExercise4ViewController.swift */,
-				1F8024BA2663D4DC00E27734 /* FinishExercise4ViewController.swift */,
-				1F8024BF2663D59B00E27734 /* ShowDataExercise4ViewController.swift */,
-			);
-			path = Exercise4;
-			sourceTree = "<group>";
-		};
 		1F9173AC2678A6440031B849 /* FaceAnalyzer */ = {
 			isa = PBXGroup;
 			children = (
@@ -160,7 +142,6 @@
 				1FF7D2FC265D10200032E25C /* Exercise1.swift */,
 				1FED0AF026779F0B00ED9C67 /* Exercise2.swift */,
 				1FD0EA30263BE3ED00E19CA2 /* Exercise3.swift */,
-				1F8024B62663C42D00E27734 /* Exercise4.swift */,
 			);
 			path = Logic;
 			sourceTree = "<group>";
@@ -179,7 +160,6 @@
 				1F8024BD2663D52700E27734 /* Exercise1 */,
 				1FED0AEB2677905500ED9C67 /* Exercise2 */,
 				1F8024BC2663D50E00E27734 /* Exercise3 */,
-				1F8024BE2663D52C00E27734 /* Exercise4 */,
 				1FED0AE9267603CD00ED9C67 /* MainMenuTabBarController.swift */,
 			);
 			path = ViewController;
@@ -384,12 +364,10 @@
 				1FD0EA31263BE3ED00E19CA2 /* Exercise3.swift in Sources */,
 				1FD0E9FA263ACBB500E19CA2 /* AppDelegate.swift in Sources */,
 				1FF7D301265EA8F60032E25C /* ShowDataExercise1ViewController.swift in Sources */,
-				1F8024B72663C42D00E27734 /* Exercise4.swift in Sources */,
 				1FED0AF52677A5A200ED9C67 /* ShowDataExercise2ViewController.swift in Sources */,
 				1FED0AF126779F0B00ED9C67 /* Exercise2.swift in Sources */,
 				1FF7D2FD265D10200032E25C /* Exercise1.swift in Sources */,
 				1FD0EA35263BE72900E19CA2 /* Emotion.swift in Sources */,
-				1F8024BB2663D4DD00E27734 /* FinishExercise4ViewController.swift in Sources */,
 				1FD0E9FC263ACBB500E19CA2 /* SceneDelegate.swift in Sources */,
 				1FABF2B82645560300585CC6 /* ShowDataExercise3ViewController.swift in Sources */,
 				1FF7D303265EA9140032E25C /* FinishExercise1ViewController.swift in Sources */,
@@ -397,8 +375,6 @@
 				1FED0AEA267603CD00ED9C67 /* MainMenuTabBarController.swift in Sources */,
 				1FD0EA2D263AD9E000E19CA2 /* UserDataInputExercise3ViewController.swift in Sources */,
 				1FED0AF92677AFEA00ED9C67 /* MimicExercise2ViewController.swift in Sources */,
-				1F8024B92663CE9C00E27734 /* MimicExercise4ViewController.swift in Sources */,
-				1F8024C02663D59B00E27734 /* ShowDataExercise4ViewController.swift in Sources */,
 				1FED0AF32677A56B00ED9C67 /* FinishExercise2ViewController.swift in Sources */,
 				1F6DBF972674C6E60072EBE9 /* FACSFaceAnalyzer.swift in Sources */,
 			);
