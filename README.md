@@ -6,7 +6,9 @@ content within code.
 
 ## Requirements to run this application
 iPhone with FaceID (iPhone 12 mini works but is not optimized at this point)
+
 iOS 14.5 or higher
+
 XCode 12.5 or higher
 
 
