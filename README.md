@@ -2,9 +2,9 @@
 Application to categorize content by analyzing the facial expressions of the user. 
 
 
-##Third party software
+## Third party software
 
-###cures-cuu-sdk
+### cures-cuu-sdk
 
 Copyright (c) 2018 CURES
 
