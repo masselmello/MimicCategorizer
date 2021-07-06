@@ -1,5 +1,8 @@
 # MimicCategorizer
-Application to categorize content by analyzing the facial expressions of the user. 
+Application to categorize content by analyzing the facial expressions of the user that was developed for my Bachelor Thesis. So excuse the sektchy code at this point.
+
+There is some example content included in the application. To add your own content simply add them to the assets and add them to the exercises you want to use the
+content within code. 
 
 
 ## Third party software used to create this application
