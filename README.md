@@ -4,6 +4,12 @@ iOS Application to categorize content by analyzing the facial expressions of the
 There is some example content included in the application. To add your own content simply add them to the assets and add them to the exercises you want to use the
 content within code. 
 
+## Requirements to run this application
+iPhone with FaceID (iPhone 12 mini works but is not optimized at this point)
+iOS 14.5 or higher
+XCode 12.5 or higher
+
+
 
 ## Third party software used to create this application
 
