@@ -13,17 +13,17 @@
             <objects>
                 <viewController id="zP7-et-Gsr" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rzE-9E-U4R">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aufgabe 1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5j3-oQ-dZs">
-                                <rect key="frame" x="134" y="100" width="107.33333333333331" height="30"/>
+                                <rect key="frame" x="134" y="188" width="107.33333333333331" height="30"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rIT-vk-sGG">
-                                <rect key="frame" x="32" y="267.33333333333331" width="311" height="223.33333333333331"/>
+                                <rect key="frame" x="32" y="294.33333333333331" width="311" height="223.33333333333331"/>
                                 <string key="text">Im Folgenden werden Ihnen Inhalte gezeigt, zu denen Sie ein Feedback geben sollen.
 Das Feedback besteht hierbei aus „👍 - gefällt mir“, 👎 - gefällt mir nicht“. Sehen Sie sich die Inhalte ruhig einen Augenblick an.
 Drücken Sie dann auf den entsprechenden Knopf unter dem Inhalt, um ihr Feedback abzugeben.
@@ -33,7 +33,7 @@ Drücken Sie dann auf den entsprechenden Knopf unter dem Inhalt, um ihr Feedback
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rz0-CM-AKv">
-                                <rect key="frame" x="112.66666666666669" y="593" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="647" width="150" height="50"/>
                                 <state key="normal" title="Test starten" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_selected"/>
@@ -67,17 +67,17 @@ Drücken Sie dann auf den entsprechenden Knopf unter dem Inhalt, um ihr Feedback
             <objects>
                 <viewController id="rQ7-ZF-MqM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pF4-el-DKf">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aufgabe 3" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eus-eh-s6j">
-                                <rect key="frame" x="132" y="100" width="111" height="30"/>
+                                <rect key="frame" x="132" y="188" width="111" height="30"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OoW-eT-LIF">
-                                <rect key="frame" x="32" y="267.33333333333331" width="311" height="223.33333333333331"/>
+                                <rect key="frame" x="32" y="294.33333333333331" width="311" height="223.33333333333331"/>
                                 <string key="text">Im Folgenden werden Sie aufgefordert bestimmte Emotionen mit Hilfe ihrer Gesichtsexpressionen darzustellen.
 Führen Sie die von der App gewünschte Emotion vor und drücken Sie währenddessen auf „Weiter“.
 Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist auch, dass Sie auf „Weiter“ klicken, während Sie die Emotion darstellen.
@@ -87,7 +87,7 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" pointerInteraction="YES" translatesAutoresizingMaskIntoConstraints="NO" id="dUc-Ue-mju">
-                                <rect key="frame" x="112.66666666666669" y="593" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="647" width="150" height="50"/>
                                 <state key="normal" title="Test starten" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -121,11 +121,11 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="lN5-Lb-odd" customClass="UserDataInputExercise3ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dlc-QA-8nd">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Klt-Zc-qCF">
-                                <rect key="frame" x="112.66666666666669" y="640" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="694" width="150" height="50"/>
                                 <state key="normal" title="Weiter" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -135,7 +135,7 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Drücken Sie auf Weiter, um mit dem zweiten test zu Beginnen." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Phw-Ce-rsx">
-                                <rect key="frame" x="16" y="15.999999999999996" width="343" height="40.666666666666657"/>
+                                <rect key="frame" x="16" y="104" width="343" height="40.666666666666657"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -171,63 +171,11 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                         <segue destination="zP7-et-Gsr" kind="relationship" relationship="viewControllers" id="tVN-Yh-HCa"/>
                         <segue destination="lx4-C0-e5G" kind="relationship" relationship="viewControllers" id="lUG-8X-FgS"/>
                         <segue destination="rQ7-ZF-MqM" kind="relationship" relationship="viewControllers" id="AYt-Yx-Vx2"/>
-                        <segue destination="5cA-o3-2ou" kind="relationship" relationship="viewControllers" id="gIw-jM-fBR"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8fz-lt-BLA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3922" y="310"/>
-        </scene>
-        <!--Test 4-->
-        <scene sceneID="5qL-Kt-UHT">
-            <objects>
-                <viewController id="5cA-o3-2ou" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="FJz-MF-agq">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PXG-hC-yDf">
-                                <rect key="frame" x="32" y="277.66666666666669" width="311" height="203"/>
-                                <string key="text">Im Folgenden werden Sie noch einmal Inhalte sehen. Diesmal sollen Sie allerdings mit Hilfe ihrer Mimik zeigen, ob Sie einen Inhalt als positiv oder negativ empfinden. Machen Sie also ein glückliches Gesicht für „gefällt mir” und ein wütendes Gesicht für „gefällt mir nicht“. Geben Sie nach jedem Inhalt kurz an, ob Sie ihn als positiv oder negativ empfanden.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wsA-KF-pJE">
-                                <rect key="frame" x="112.66666666666669" y="593" width="150" height="50"/>
-                                <state key="normal" title="Test starten" backgroundImage="button background"/>
-                                <state key="disabled" backgroundImage="BlueButton_disabled"/>
-                                <state key="selected" backgroundImage="BlueButton_highlighted"/>
-                                <state key="highlighted" backgroundImage="BlueButton_selected"/>
-                                <connections>
-                                    <segue destination="uD0-aZ-MCX" kind="show" id="vT9-Ot-jWN"/>
-                                </connections>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aufgabe 4" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rKo-ln-lpK">
-                                <rect key="frame" x="132" y="100" width="111.33333333333331" height="30"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="Wga-mu-niY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="rKo-ln-lpK" firstAttribute="centerX" secondItem="FJz-MF-agq" secondAttribute="centerX" id="4Ct-mV-xiJ"/>
-                            <constraint firstItem="wsA-KF-pJE" firstAttribute="centerX" secondItem="FJz-MF-agq" secondAttribute="centerX" id="8nC-w4-lxP"/>
-                            <constraint firstItem="rKo-ln-lpK" firstAttribute="top" secondItem="Wga-mu-niY" secondAttribute="top" constant="100" id="BPv-qF-mQK"/>
-                            <constraint firstItem="PXG-hC-yDf" firstAttribute="centerX" secondItem="FJz-MF-agq" secondAttribute="centerX" id="FPd-zb-ztn"/>
-                            <constraint firstItem="Wga-mu-niY" firstAttribute="trailing" secondItem="PXG-hC-yDf" secondAttribute="trailing" constant="32" id="U7m-nn-dqg"/>
-                            <constraint firstItem="PXG-hC-yDf" firstAttribute="leading" secondItem="Wga-mu-niY" secondAttribute="leading" constant="32" id="Vmh-tO-GJH"/>
-                            <constraint firstItem="PXG-hC-yDf" firstAttribute="centerY" secondItem="FJz-MF-agq" secondAttribute="centerY" id="aUa-cs-GjG"/>
-                            <constraint firstItem="Wga-mu-niY" firstAttribute="bottom" secondItem="wsA-KF-pJE" secondAttribute="bottom" constant="32" id="hhi-Pf-aUq"/>
-                        </constraints>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="Test 4" image="pencil" catalog="system" id="fzq-eF-k4d"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="NcX-6u-wCD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-489" y="788"/>
+            <point key="canvasLocation" x="-3873" y="-189"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="3we-Ev-oEo">
@@ -243,30 +191,30 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wl6-NX-gGA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-4897" y="310"/>
+            <point key="canvasLocation" x="-4849" y="-189"/>
         </scene>
         <!--Mimic Exercise3 View Controller-->
         <scene sceneID="Nse-zc-F51">
             <objects>
                 <viewController id="YSy-9S-8Tm" customClass="MimicExercise3ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4nQ-O8-bex">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <arscnView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="E9m-E5-C9C">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="778"/>
                             </arscnView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uyZ-LI-Gcz">
-                                <rect key="frame" x="0.0" y="8" width="375" height="708"/>
+                                <rect key="frame" x="0.0" y="96" width="375" height="674"/>
                                 <subviews>
                                     <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vxg-zp-BU2">
-                                        <rect key="frame" x="0.0" y="708" width="375" height="21"/>
+                                        <rect key="frame" x="0.0" y="674" width="375" height="21"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mH3-De-Snd">
-                                        <rect key="frame" x="112.66666666666669" y="626" width="150" height="50"/>
+                                        <rect key="frame" x="112.66666666666669" y="592" width="150" height="50"/>
                                         <state key="normal" title="Next" backgroundImage="button background"/>
                                         <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                         <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -276,7 +224,7 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NEh-dA-pdT">
-                                        <rect key="frame" x="8" y="8" width="359" height="692"/>
+                                        <rect key="frame" x="8" y="8" width="359" height="658"/>
                                         <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -330,18 +278,18 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="jFm-Bt-I3i" customClass="FinishExercise3ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="6eh-u6-XGj">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="mXi-Wc-0Dx">
-                                <rect key="frame" x="152.66666666666666" y="345" width="70" height="68.666666666666686"/>
+                                <rect key="frame" x="152.66666666666666" y="372" width="70" height="68.666666666666686"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="70" id="kS5-rJ-b2y"/>
                                     <constraint firstAttribute="height" constant="70" id="wxd-AM-bhG"/>
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test finished please hand the phone to the instructor" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vnw-sV-TbB">
-                                <rect key="frame" x="32" y="31.999999999999996" width="311" height="40.666666666666657"/>
+                                <rect key="frame" x="32" y="120.00000000000001" width="311" height="40.666666666666671"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -380,119 +328,119 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="NvY-S2-5W1" customClass="ShowDataExercise3ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Tg8-wO-s5e">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Age:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ebw-gn-pWf">
-                                <rect key="frame" x="16" y="16" width="35" height="21"/>
+                                <rect key="frame" x="16" y="104" width="35" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Happy erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="We5-BS-pUJ">
-                                <rect key="frame" x="16" y="45" width="116" height="21"/>
+                                <rect key="frame" x="16" y="133" width="116" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sad erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mC0-q3-CTJ">
-                                <rect key="frame" x="16" y="74" width="96" height="21"/>
+                                <rect key="frame" x="16" y="162" width="96" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Angry erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9LV-4h-l1R">
-                                <rect key="frame" x="16" y="103" width="112" height="21"/>
+                                <rect key="frame" x="16" y="191" width="112" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Surprised erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T5d-3s-GFO">
-                                <rect key="frame" x="16" y="132" width="141" height="21"/>
+                                <rect key="frame" x="16" y="220" width="141" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WBx-qM-XVF">
-                                <rect key="frame" x="59" y="16" width="42" height="21"/>
+                                <rect key="frame" x="59" y="104" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A7a-qQ-DQb">
-                                <rect key="frame" x="140" y="45" width="42" height="21"/>
+                                <rect key="frame" x="140" y="133" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HEu-y1-XQY">
-                                <rect key="frame" x="140" y="74" width="42" height="21"/>
+                                <rect key="frame" x="140" y="162" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="39I-u1-FYA">
-                                <rect key="frame" x="140" y="103" width="42" height="21"/>
+                                <rect key="frame" x="140" y="191" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ddj-ZI-yHC">
-                                <rect key="frame" x="174" y="132" width="42" height="21"/>
+                                <rect key="frame" x="174" y="220" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Neutral erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Lr-GG-IdZ">
-                                <rect key="frame" x="16" y="161" width="123" height="21"/>
+                                <rect key="frame" x="16" y="249" width="123" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XXz-54-ftB">
-                                <rect key="frame" x="174" y="161" width="42" height="21"/>
+                                <rect key="frame" x="174" y="249" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Fear erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bdj-1l-bxu">
-                                <rect key="frame" x="15.999999999999993" y="198" width="100.33333333333331" height="21"/>
+                                <rect key="frame" x="15.999999999999993" y="286" width="100.33333333333331" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vqB-zc-Emf">
-                                <rect key="frame" x="132.33333333333334" y="198" width="42" height="21"/>
+                                <rect key="frame" x="132.33333333333334" y="286" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Disgust erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fc5-JT-7yi">
-                                <rect key="frame" x="15.999999999999993" y="235" width="124.33333333333331" height="21"/>
+                                <rect key="frame" x="15.999999999999993" y="323" width="124.33333333333331" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oz0-nh-6wA">
-                                <rect key="frame" x="166" y="235" width="42" height="21"/>
+                                <rect key="frame" x="166" y="323" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Contempt erkannt:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ehR-YN-WQk">
-                                <rect key="frame" x="16" y="272" width="142.33333333333334" height="21"/>
+                                <rect key="frame" x="16" y="360" width="142.33333333333334" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lyL-WP-HWv">
-                                <rect key="frame" x="174.33333333333334" y="272" width="42" height="21"/>
+                                <rect key="frame" x="174.33333333333334" y="360" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YV3-rb-7jA">
-                                <rect key="frame" x="112.66666666666669" y="642" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="696" width="150" height="50"/>
                                 <state key="normal" title="Done" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -569,17 +517,17 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="tqi-tf-fYS" customClass="ShowDataExercise1ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="wnp-t6-p9h">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O4r-pF-KDS">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
+                                <rect key="frame" x="0.0" y="88" width="375" height="690"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ky5-pr-0Z4">
-                                <rect key="frame" x="112.66666666666669" y="642" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="696" width="150" height="50"/>
                                 <state key="normal" title="Fertig" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -614,23 +562,23 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="CYb-QC-H2U" customClass="Exercise1ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ZOD-rl-aRZ">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <arscnView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZLO-N3-vYX">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="778"/>
                             </arscnView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZJc-sD-orC">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
+                                <rect key="frame" x="0.0" y="88" width="375" height="690"/>
                                 <subviews>
                                     <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sam-0x-nGh">
-                                        <rect key="frame" x="8" y="36.333333333333336" width="359" height="21"/>
+                                        <rect key="frame" x="8" y="36.333333333333329" width="359" height="21"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hn6-hA-Ccy">
-                                        <rect key="frame" x="152.66666666666666" y="654" width="70" height="70"/>
+                                        <rect key="frame" x="152.66666666666666" y="620" width="70" height="70"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="GBR-5L-gRY"/>
                                             <constraint firstAttribute="width" constant="70" id="RQR-NH-bLV"/>
@@ -651,7 +599,7 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ylf-ca-1QW">
-                                        <rect key="frame" x="32" y="654" width="70" height="70"/>
+                                        <rect key="frame" x="32" y="620" width="70" height="70"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="0Za-MY-GZm"/>
                                             <constraint firstAttribute="width" constant="70" id="G54-HZ-h1p"/>
@@ -668,7 +616,7 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="61S-sI-kw3">
-                                        <rect key="frame" x="273" y="654" width="70" height="70"/>
+                                        <rect key="frame" x="273" y="620" width="70" height="70"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="70" id="1Zx-Ci-fIl"/>
                                             <constraint firstAttribute="height" constant="70" id="bbh-yo-H9u"/>
@@ -704,10 +652,10 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
                                 </constraints>
                             </view>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Rm3-de-2uU">
-                                <rect key="frame" x="8" y="124" width="359" height="510"/>
+                                <rect key="frame" x="8" y="124" width="359" height="564"/>
                             </imageView>
                             <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5Zs-eR-C4y">
-                                <rect key="frame" x="37.666666666666657" y="32" width="300" height="50"/>
+                                <rect key="frame" x="37.666666666666657" y="120" width="300" height="50"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Bitte warten...." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kap-DD-92v">
                                         <rect key="frame" x="8" y="8" width="284" height="34"/>
@@ -773,24 +721,24 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             <objects>
                 <viewController id="ik6-Qt-rjW" customClass="FinishExercise1ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AFE-bA-BPI">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="5ZX-i4-oM2">
-                                <rect key="frame" x="152.66666666666666" y="345" width="70" height="68.666666666666686"/>
+                                <rect key="frame" x="152.66666666666666" y="372" width="70" height="68.666666666666686"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="1ZK-vv-HWV"/>
                                     <constraint firstAttribute="width" constant="70" id="x2R-Ia-svE"/>
                                 </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test finished please hand the phone to the instructor" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6ty-py-BRj">
-                                <rect key="frame" x="32" y="31.999999999999996" width="311" height="40.666666666666657"/>
+                                <rect key="frame" x="32" y="120.00000000000001" width="311" height="40.666666666666671"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Am-XJ-roy">
-                                <rect key="frame" x="112.66666666666669" y="642" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="696" width="150" height="50"/>
                                 <state key="normal" title="Show Data" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -819,177 +767,22 @@ Achten Sie darauf die Mimik so natürlich wie möglich darzustellen. Wichtig ist
             </objects>
             <point key="canvasLocation" x="2722" y="-189"/>
         </scene>
-        <!--Mimic Exercise4 View Controller-->
-        <scene sceneID="sol-OJ-Znh">
-            <objects>
-                <viewController id="uD0-aZ-MCX" customClass="MimicExercise4ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="CFE-7X-dkB">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <subviews>
-                            <arscnView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="riQ-du-Xh6">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
-                            </arscnView>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WDQ-92-wdN">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                            </view>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5um-Df-a0Z">
-                                <rect key="frame" x="16" y="160" width="358" height="524"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Timer:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ivd-Hg-a9M">
-                                <rect key="frame" x="174" y="700" width="49" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1iG-D7-Y6c">
-                                <rect key="frame" x="174" y="729" width="42" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="ded-aw-N2n"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="ded-aw-N2n" firstAttribute="bottom" secondItem="WDQ-92-wdN" secondAttribute="bottom" id="0oA-bR-qru"/>
-                            <constraint firstItem="riQ-du-Xh6" firstAttribute="leading" secondItem="ded-aw-N2n" secondAttribute="leading" id="EVb-1N-c6G"/>
-                            <constraint firstItem="WDQ-92-wdN" firstAttribute="centerX" secondItem="CFE-7X-dkB" secondAttribute="centerX" id="MMz-DV-Ibr"/>
-                            <constraint firstItem="riQ-du-Xh6" firstAttribute="bottom" secondItem="ded-aw-N2n" secondAttribute="bottom" id="PbL-0F-1Ls"/>
-                            <constraint firstItem="riQ-du-Xh6" firstAttribute="top" secondItem="CFE-7X-dkB" secondAttribute="top" id="Pd3-HD-ZS0"/>
-                            <constraint firstItem="riQ-du-Xh6" firstAttribute="trailing" secondItem="ded-aw-N2n" secondAttribute="trailing" id="akV-ad-OuR"/>
-                            <constraint firstItem="WDQ-92-wdN" firstAttribute="top" secondItem="ded-aw-N2n" secondAttribute="top" id="dEm-YI-ulV"/>
-                            <constraint firstItem="WDQ-92-wdN" firstAttribute="leading" secondItem="ded-aw-N2n" secondAttribute="leading" id="z9I-rs-OdU"/>
-                        </constraints>
-                    </view>
-                    <navigationItem key="navigationItem" id="Flb-T3-jzA"/>
-                    <connections>
-                        <outlet property="outputView" destination="WDQ-92-wdN" id="4Ay-m6-qAh"/>
-                        <outlet property="sceneView" destination="riQ-du-Xh6" id="b7b-cg-dIC"/>
-                        <outlet property="testImage" destination="5um-Df-a0Z" id="2Vw-8q-kOS"/>
-                        <outlet property="timeLabel" destination="1iG-D7-Y6c" id="x4r-jx-b4s"/>
-                        <segue destination="7tP-hv-sqk" kind="show" identifier="finishTest3" id="YNY-o4-fYa"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="yHC-xH-10y" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1425" y="788"/>
-        </scene>
-        <!--Finish Exercise4 View Controller-->
-        <scene sceneID="Omt-1u-QWU">
-            <objects>
-                <viewController id="7tP-hv-sqk" customClass="FinishExercise4ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="GPn-bV-7Og">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="LNS-df-Pd3">
-                                <rect key="frame" x="152.66666666666666" y="345" width="70" height="68.666666666666686"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="70" id="Kxg-FR-5dt"/>
-                                    <constraint firstAttribute="width" constant="70" id="rgP-gj-3gh"/>
-                                </constraints>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test finished please hand the phone to the instructor" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WCL-KZ-eWi">
-                                <rect key="frame" x="32" y="31.999999999999996" width="311" height="40.666666666666657"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qLy-e3-ck9">
-                                <rect key="frame" x="122" y="695" width="150" height="50"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Show Data" backgroundImage="button background"/>
-                                <state key="disabled" backgroundImage="BlueButton_disabled"/>
-                                <state key="selected" backgroundImage="BlueButton_highlighted"/>
-                                <state key="highlighted" backgroundImage="BlueButton_selected"/>
-                                <connections>
-                                    <segue destination="qB1-cw-jU0" kind="show" id="nxc-RE-jpr"/>
-                                </connections>
-                            </button>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="RB5-0d-OeW"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="LNS-df-Pd3" firstAttribute="centerY" secondItem="GPn-bV-7Og" secondAttribute="centerY" id="IZx-31-UZc"/>
-                            <constraint firstItem="WCL-KZ-eWi" firstAttribute="leading" secondItem="GPn-bV-7Og" secondAttribute="leading" constant="32" id="JX8-aV-tdQ"/>
-                            <constraint firstItem="WCL-KZ-eWi" firstAttribute="centerX" secondItem="GPn-bV-7Og" secondAttribute="centerX" id="LFg-fI-UIy"/>
-                            <constraint firstItem="WCL-KZ-eWi" firstAttribute="top" secondItem="RB5-0d-OeW" secondAttribute="top" constant="32" id="bbo-53-Ge6"/>
-                            <constraint firstAttribute="trailing" secondItem="WCL-KZ-eWi" secondAttribute="trailing" constant="32" id="qR5-xG-uQL"/>
-                            <constraint firstItem="LNS-df-Pd3" firstAttribute="centerX" secondItem="GPn-bV-7Og" secondAttribute="centerX" id="z3J-lR-Yzd"/>
-                        </constraints>
-                    </view>
-                    <navigationItem key="navigationItem" id="Rz4-gJ-6wS"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Cb0-jE-VAm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2697" y="788"/>
-        </scene>
-        <!--Show Data Exercise4 View Controller-->
-        <scene sceneID="L5a-ue-iXF">
-            <objects>
-                <viewController id="qB1-cw-jU0" customClass="ShowDataExercise4ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="EAJ-ba-HkI">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ma1-X8-KQz">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="724"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Puw-uV-M1w">
-                                <rect key="frame" x="112.66666666666669" y="642" width="150" height="50"/>
-                                <state key="normal" title="Fertig" backgroundImage="button background"/>
-                                <state key="disabled" backgroundImage="BlueButton_disabled"/>
-                                <state key="selected" backgroundImage="BlueButton_highlighted"/>
-                                <state key="highlighted" backgroundImage="BlueButton_selected"/>
-                                <connections>
-                                    <segue destination="1GZ-7K-zAc" kind="show" id="w1u-2B-DFi"/>
-                                </connections>
-                            </button>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="YZG-jb-s6v"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="Puw-uV-M1w" firstAttribute="centerX" secondItem="EAJ-ba-HkI" secondAttribute="centerX" id="BEB-yb-7Yo"/>
-                            <constraint firstItem="YZG-jb-s6v" firstAttribute="bottom" secondItem="ma1-X8-KQz" secondAttribute="bottom" id="CtV-Ou-vRS"/>
-                            <constraint firstItem="YZG-jb-s6v" firstAttribute="bottom" secondItem="Puw-uV-M1w" secondAttribute="bottom" constant="32" id="fz0-oK-nhA"/>
-                            <constraint firstItem="YZG-jb-s6v" firstAttribute="trailing" secondItem="ma1-X8-KQz" secondAttribute="trailing" id="gbz-jh-pWF"/>
-                            <constraint firstItem="ma1-X8-KQz" firstAttribute="leading" secondItem="YZG-jb-s6v" secondAttribute="leading" id="nlG-B9-QU1"/>
-                            <constraint firstItem="ma1-X8-KQz" firstAttribute="top" secondItem="YZG-jb-s6v" secondAttribute="top" id="nqn-m1-9Bb"/>
-                        </constraints>
-                    </view>
-                    <navigationItem key="navigationItem" id="WzN-NI-QNc"/>
-                    <connections>
-                        <outlet property="outPutLabel" destination="ma1-X8-KQz" id="cc9-Ds-xGW"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Iu0-vt-f09" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="3765" y="788"/>
-        </scene>
         <!--Test 2-->
         <scene sceneID="4jz-FZ-aUJ">
             <objects>
                 <viewController id="lx4-C0-e5G" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="d4h-3X-5Lu">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aufgabe 2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8fr-n3-wOf">
-                                <rect key="frame" x="132.33333333333334" y="100" width="110.33333333333334" height="30"/>
+                                <rect key="frame" x="132.33333333333334" y="188" width="110.33333333333334" height="30"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ipC-eN-ObR">
-                                <rect key="frame" x="32" y="115" width="311" height="528"/>
+                                <rect key="frame" x="32" y="115" width="311" height="582"/>
                                 <string key="text">Im Folgenden werden Ihnen Inhalte gezeigt. Sehen sie sich die Inhalte in Ruhe an und klicken Sie auf Weiter um den nächsten Inhalt zu laden. Das iPhone versucht zu erkennen, ob Sie den Inhalt als positiv, negativ oder neutral empfinden.
 Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen empfinden übereinstimmt. 
 </string>
@@ -998,7 +791,7 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hLF-KT-109">
-                                <rect key="frame" x="112.66666666666669" y="593" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="647" width="150" height="50"/>
                                 <state key="normal" title="Test starten" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -1028,24 +821,24 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YRn-hr-tVI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-489" y="1688"/>
+            <point key="canvasLocation" x="-482" y="780"/>
         </scene>
         <!--Mimic Exercise2 View Controller-->
         <scene sceneID="win-cQ-Oi5">
             <objects>
                 <viewController id="v7F-oq-8Yp" customClass="MimicExercise2ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vd9-vY-23g">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <arscnView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2mb-4W-hv3">
-                                <rect key="frame" x="32" y="32" width="311" height="660"/>
+                                <rect key="frame" x="32" y="120" width="311" height="577"/>
                             </arscnView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="el8-vA-AQo">
-                                <rect key="frame" x="32" y="32" width="311" height="660"/>
+                                <rect key="frame" x="32" y="120" width="311" height="577"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="a9S-bi-vqg">
-                                        <rect key="frame" x="0.0" y="0.0" width="311" height="628"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="311" height="545"/>
                                     </imageView>
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -1059,7 +852,7 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Whl-oQ-Ebg">
-                                <rect key="frame" x="112.66666666666669" y="676" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="730" width="150" height="50"/>
                                 <state key="normal" title="Weiter" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -1093,18 +886,18 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5UB-OM-CvV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1425" y="1688"/>
+            <point key="canvasLocation" x="1433" y="780"/>
         </scene>
         <!--Finish Exercise2 View Controller-->
         <scene sceneID="NNB-f8-4lq">
             <objects>
                 <viewController id="azz-IC-zkJ" customClass="FinishExercise2ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Voe-M3-lp8">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ekb-8G-6Fq">
-                                <rect key="frame" x="112.66666666666669" y="676" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="730" width="150" height="50"/>
                                 <state key="normal" title="Show Data" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -1114,7 +907,7 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="tX8-58-EtC">
-                                <rect key="frame" x="152.66666666666666" y="345" width="70" height="68.666666666666686"/>
+                                <rect key="frame" x="152.66666666666666" y="372" width="70" height="68.666666666666686"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="70" id="356-hQ-H7U"/>
                                     <constraint firstAttribute="height" constant="70" id="F0Q-8d-Zzv"/>
@@ -1134,24 +927,24 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XSa-eS-xXe" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2697" y="1689"/>
+            <point key="canvasLocation" x="2705" y="780"/>
         </scene>
         <!--Show Data Exercise2 View Controller-->
         <scene sceneID="5vP-mE-34S">
             <objects>
                 <viewController id="2ZT-Bi-nxc" customClass="ShowDataExercise2ViewController" customModule="MimicTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="5sp-FR-Qe2">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nni-Be-SRj">
-                                <rect key="frame" x="167" y="369" width="41.333333333333343" height="20.333333333333314"/>
+                                <rect key="frame" x="167" y="396" width="41.333333333333343" height="20.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lqJ-O0-iUQ">
-                                <rect key="frame" x="112.66666666666669" y="676" width="150" height="50"/>
+                                <rect key="frame" x="112.66666666666669" y="730" width="150" height="50"/>
                                 <state key="normal" title="Fertig" backgroundImage="button background"/>
                                 <state key="disabled" backgroundImage="BlueButton_disabled"/>
                                 <state key="selected" backgroundImage="BlueButton_highlighted"/>
@@ -1177,11 +970,11 @@ Sie werden nach jedem Inhalt gefragt, ob die Erkennung mit ihrem persönlichen e
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JS5-jU-jWh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3765" y="1689"/>
+            <point key="canvasLocation" x="3772" y="780"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="w1u-2B-DFi"/>
+        <segue reference="pFV-p7-MeW"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="BlueButton__square_default" width="50" height="50"/>
