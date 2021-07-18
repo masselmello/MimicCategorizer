@@ -10,7 +10,7 @@ import SceneKit
 import ARKit
 import CoreData
 
-class MimicExercise2ViewController: UIViewController, ARSCNViewDelegate{
+class Exercise2ViewController: UIViewController, ARSCNViewDelegate{
     //
     //  MimicTest1ViewController.swift
     //  MimicTracker

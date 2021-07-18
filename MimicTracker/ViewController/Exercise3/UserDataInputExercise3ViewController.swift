@@ -45,7 +45,7 @@ class UserDataInputExercise3ViewController: UIViewController, UITextFieldDelegat
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let age: Int? = 0
         let recognitionTest = Exercise3(age: age ?? 0)
-        let destination = segue.destination as! MimicExercise3ViewController
+        let destination = segue.destination as! Exercise3ViewController
         destination.recognitionTest = recognitionTest
     }
     

@@ -10,7 +10,7 @@ import SceneKit
 import ARKit
 import CoreData
 
-class MimicExercise3ViewController: UIViewController, ARSCNViewDelegate {
+class Exercise3ViewController: UIViewController, ARSCNViewDelegate {
     
     @IBOutlet weak var sceneView: ARSCNView!
     @IBOutlet weak var outPutLabel: UILabel!
